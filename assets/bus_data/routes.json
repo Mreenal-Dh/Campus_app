@@ -1,0 +1,139 @@
+[
+  {
+    "routeId": "101",
+    "routeName": "101 - Campus Loop (HNLU → Railway)",
+    "isWeekend": false,
+    "stops": [
+      {"name": "HNLU", "time": "06:25"},
+      {"name": "Balco Medical Centre", "time": "06:26"},
+      {"name": "Sector 30", "time": "06:31"},
+      {"name": "Sector 29", "time": "06:34"},
+      {"name": "Sector 27", "time": "06:36"},
+      {"name": "South Block", "time": "06:38"},
+      {"name": "Indravati Bhawan", "time": "06:42"},
+      {"name": "Mahanadi Bhawan", "time": "06:44"},
+      {"name": "North Block", "time": "06:48"},
+      {"name": "Ekatm Path", "time": "06:49"},
+      {"name": "CBD", "time": "06:52"},
+      {"name": "Sector 15", "time": "06:55"},
+      {"name": "Telibandha", "time": "07:18"},
+      {"name": "DKS Bhawan", "time": "07:33"},
+      {"name": "Railway Station", "time": "07:48"}
+    ]
+  },
+  {
+    "routeId": "101",
+    "routeName": "101 - Campus Loop (HNLU → Railway)",
+    "isWeekend": false,
+    "stops": [
+      {"name": "HNLU", "time": "07:25"},
+      {"name": "Balco Medical Centre", "time": "07:26"},
+      {"name": "Sector 30", "time": "07:31"},
+      {"name": "Sector 29", "time": "07:34"},
+      {"name": "Sector 27", "time": "07:36"},
+      {"name": "South Block", "time": "07:38"},
+      {"name": "Indravati Bhawan", "time": "07:42"},
+      {"name": "Mahanadi Bhawan", "time": "07:44"},
+      {"name": "North Block", "time": "07:48"},
+      {"name": "Ekatm Path", "time": "07:49"},
+      {"name": "CBD", "time": "07:52"},
+      {"name": "Sector 15", "time": "07:55"},
+      {"name": "Telibandha", "time": "08:18"},
+      {"name": "DKS Bhawan", "time": "08:33"},
+      {"name": "Railway Station", "time": "08:48"}
+    ]
+  },
+  {
+    "routeId": "101",
+    "routeName": "101 - Campus Loop (HNLU → Railway)",
+    "isWeekend": true,
+    "stops": [
+      {"name": "HNLU", "time": "07:15"},
+      {"name": "Balco Medical Centre", "time": "07:16"},
+      {"name": "Sector 30", "time": "07:21"},
+      {"name": "Sector 29", "time": "07:24"},
+      {"name": "Sector 27", "time": "07:26"},
+      {"name": "South Block", "time": "07:28"},
+      {"name": "Indravati Bhawan", "time": "07:32"},
+      {"name": "Mahanadi Bhawan", "time": "07:34"},
+      {"name": "North Block", "time": "07:38"},
+      {"name": "Ekatm Path", "time": "07:39"},
+      {"name": "CBD", "time": "07:42"},
+      {"name": "Sector 15", "time": "07:45"},
+      {"name": "Telibandha", "time": "07:48"},
+      {"name": "DKS Bhawan", "time": "07:53"},
+      {"name": "Railway Station", "time": "08:05"}
+    ]
+  },
+  {
+    "routeId": "102",
+    "routeName": "102 - Sector Express (Balco → HNLU)",
+    "isWeekend": false,
+    "stops": [
+      {"name": "Balco Medical Centre", "time": "06:40"},
+      {"name": "Sector 30", "time": "06:45"},
+      {"name": "Sector 29", "time": "06:48"},
+      {"name": "Sector 27", "time": "06:50"},
+      {"name": "Telibandha", "time": "07:10"},
+      {"name": "Railway Station", "time": "07:25"},
+      {"name": "HNLU", "time": "07:40"}
+    ]
+  },
+  {
+    "routeId": "201",
+    "routeName": "201 - North Express (HNLU → Railway)",
+    "isWeekend": false,
+    "stops": [
+      {"name": "HNLU", "time": "09:00"},
+      {"name": "Balco Medical Centre", "time": "09:15"},
+      {"name": "Sector 30", "time": "09:31"},
+      {"name": "Sector 29", "time": "09:53"},
+      {"name": "Railway Station", "time": "10:23"}
+    ]
+  },
+  {
+    "routeId": "202",
+    "routeName": "202 - East Line (HNLU → Railway)",
+    "isWeekend": false,
+    "stops": [
+      {"name": "HNLU", "time": "08:30"},
+      {"name": "Balco Medical Centre", "time": "08:45"},
+      {"name": "Sector 30", "time": "09:01"},
+      {"name": "Sector 29", "time": "09:23"},
+      {"name": "Railway Station", "time": "09:48"}
+    ]
+  },
+  {
+    "routeId": "203",
+    "routeName": "203 - West Connector",
+    "isWeekend": false,
+    "stops": [
+      {"name": "Balco Medical Centre", "time": "12:15"},
+      {"name": "Sector 30", "time": "12:30"},
+      {"name": "Sector 29", "time": "12:45"},
+      {"name": "Railway Station", "time": "13:10"}
+    ]
+  },
+  {
+    "routeId": "204",
+    "routeName": "204 - Circular (short runs)",
+    "isWeekend": false,
+    "stops": [
+      {"name": "Telibandha", "time": "14:00"},
+      {"name": "Sector 15", "time": "14:12"},
+      {"name": "CBD", "time": "14:20"},
+      {"name": "North Block", "time": "14:28"}
+    ]
+  },
+  {
+    "routeId": "205",
+    "routeName": "205 - Night Short (limited)",
+    "isWeekend": false,
+    "stops": [
+      {"name": "Railway Station", "time": "20:00"},
+      {"name": "Telibandha", "time": "20:18"},
+      {"name": "Sector 15", "time": "20:30"},
+      {"name": "HNLU", "time": "20:55"}
+    ]
+  }
+]

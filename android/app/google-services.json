@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "410600043226",
+    "project_id": "go-raipur",
+    "storage_bucket": "go-raipur.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410600043226:android:656e511cd7a534867cabe3",
+        "android_client_info": {
+          "package_name": "com.example.campus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410600043226-esg2qv27l2cggkj2cqasr19go1ee17r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.campus_app",
+            "certificate_hash": "80e4a808b15a4d03545f3e983636176f48597e06"
+          }
+        },
+        {
+          "client_id": "410600043226-v9ccr3h09d26q4fc8aq1shg0epji9mrp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdQ2ywz-6XgCfNMrcHjcQ4SJ655rdGi58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410600043226-v9ccr3h09d26q4fc8aq1shg0epji9mrp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "410600043226-ev9vh5a1psjsv5oc7n2lupphqn8v8m91.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.campusApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
